@@ -49,14 +49,3 @@ Para verificar que tu proyecto cumple unos requisitos adecuados al conocimiento 
 
 
 ___
-## STEPS
-
-
-- [X] Definicion meta
-- [X] Importar fuente externa
-- [] Definición estructura
-- [] Variables y paleta
-- [] Estilos
-- [] Header
-- [] Hero
-- [] Animacion Hero
